@@ -1,0 +1,1 @@
+print("Multimodal AI journey started 🚀")
